@@ -2,6 +2,6 @@
 <br/>
 Followed the "starter pack" from Berkeley RISELab.
 <br/>
-Use WandB to log various information.
+Used WandB to log various information.
 <br/>
 
