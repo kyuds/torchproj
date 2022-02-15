@@ -1,3 +1,5 @@
+# DenseNet code taken from https://github.com/kuangliu/pytorch-cifar/tree/master/models
+
 import math
 
 import torch
