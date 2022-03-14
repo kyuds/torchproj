@@ -1,9 +1,9 @@
-### starter project for understanding PyTorch
+### starter project for understanding PyTorch and WandB
 <br/>
-Followed the "starter pack" from Berkeley RISELab.
+Followed the "starter pack" from Berkeley RISELab. Used WandB to log various information.
 <br/>
-Used WandB to log various information.
 <br/>
-Important Note: project was done on Google Colab, so the python file in the repository is a simple copy and paste.
+Important Note: project was done on Google Colab and the python file is a simple copy and paste. Also, in the Colab notebook, the loggings were printed too many times.......
 <br/>
-Link to notebook: [notebook](https://colab.research.google.com/drive/1QBNEl-HQzMGJd74ra5NWRH7D2eKRzNsX?usp=sharing)
+<br/>
+Notebook: https://colab.research.google.com/drive/1QBNEl-HQzMGJd74ra5NWRH7D2eKRzNsX?usp=sharing
